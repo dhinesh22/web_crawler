@@ -1,345 +1,1014 @@
 crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
-"6167 Jarvis Ave, Newark, CA, USA",1. Oasis Palace Restaurant,4/5,"(, - 1 review)"
-"411 Main Street, Pleasanton, CA, United States",2. Frontier Spice Indian Restaurant And Catering,5/5,"(, - 7 reviews)"
-"856 W El Camino Real, Mountain View, CA, United States",3. Chennai Kings,5/5,"(, - 6 reviews)"
-"326 Commercial Street, San Jose, CA, USA",4. The Everest Momo,5/5,"(, - 19 reviews)"
-"1143 San Carlos Ave, San Carlos, California 94070, United States",5. Saffron Indian Bistro,none,"(Write a Review)"
-"834 Blossom Hill Road, San Jose, CA 95123, United States",6. Chaat Cafe,none,"(Write a Review)"
-"7225 Healdsburg Ave, Sebastopol, CA, United States",7. Marigold Indian Bistro,5/5,"(, - 4 reviews)"
-"560 North Abel Street, Milpitas, CA 95035, United States",8. Vedas ,none,"(Write a Review)"
-"Fremont, California, USA",9. Masala Theory,none,"(Write a Review)"
-"15930 Hesperian Blvd, San Lorenzo, CA , United States",10. Flavor Of India North And South Cuisine,none,"(Write a Review)"
-"5774 Mowry School Rd, Newark, California, United States",11. Mehran Restaurant And Catering,none,"(Write a Review)"
-"5959 Shellmound St, Emeryville, California, United States",12. Wazwan Cuisine Of India,none,"(Write a Review)"
-"800 California St, Mountain View, California 94041, United States",13. Shivas Indian Restaurant,none,"(Write a Review)"
-"71 Stevenson Street, Stevenson Street, San Francisco, California, United States",14. Dabba,none,"(Write a Review)"
-"20007 Stevens Creek Blvd, Cupertino, CA 95014, United States",15. Shan Restaurant,none,"(Write a Review)"
-"925 Blossom Hill Rd, San Jose, California, USA",16. Curry Roots,none,"(Write a Review)"
-"3037 Pleasanton Avenue, Pleasanton, CA, United States",17. Vedas Indian Restaurant,none,"(Write a Review)"
-"3295 Woodward Ave, Santa Clara, California, United States",18. Dil Se Eatery,5/5,"(, - 2 reviews)"
-"2634 Alum Rock Ave, San Jose, CA 95116, United States",19. Jewel Of India Restaurant,none,"(Write a Review)"
-"4741 W Shaw Ave, Fresno, CA, United States",20. Shan-E-Punjab Punjabi Cuisine,5/5,"(, - 3 reviews)"
-"258 Divisadero St, San Francisco, CA, United States",21. Indian Paradox,5/5,"(, - 3 reviews)"
-"3180 Santa Rita Rd, Pleasanton, California, USA",22. Sri Venkatesh Bhavan,5/5,"(, - 2 reviews)"
-"3064 El Camino Real, Santa Clara, CA 95035, United States",23. Thali Indian Vegetarian Restaurant,none,"(Write a Review)"
-"522 Jones St, San Francisco, California, USA",24. Red Chilli,none,"(Write a Review)"
-"5134 Stevens Creek Blvd, San Jose, CA, United States",25. New Tandoori Cafe,5/5,"(, - 5 reviews)"
-"659 Valencia Street, San Francisco, CA, United States",26. Curry Up Now Food Truck,none,"(Write a Review)"
-"4238 18th St, San Francisco, CA, United States",27. CurryBoyzz Indian Restaurant,5/5,"(, - 3 reviews)"
-"810 Pacific Ave, Santa Cruz, CA, USA",28. Mumbai Delights,5/5,"(, - 1 review)"
-"21267 Stevens Creek Freeway, Cupertino, CA, United States",29. Chaat House Indian Restuarant,5/5,"(, - 2 reviews)"
-"40827 Fremont Blvd, Fremont, California, USA",30. Bawarchi,none,"(Write a Review)"
-"288 Castro St, Mountain View, CA, United States",31. Park Balluchi Indian Restaurant,5/5,"(, - 5 reviews)"
-"800 California St, Mountain View, California 94041, United States",32. Shivas Indian Restaurant,none,"(Write a Review)"
-"2725 El Camino Real, Santa Clara, CA, United States",33. KITCHEN OF KUCHIPUDI,none,"(Write a Review)"
-"2713 Whitson St, Selma, California, United States",34. Asoka Indian Cuisine Restaurant,5/5,"(, - 2 reviews)"
-"320 3rd St, San Francisco, California, United States",35. Chaat Corner Formerly Cafe Chaat,none,"(Write a Review)"
-"1819 E Dakota Ave, Fresno, CA 93726, USA",36. Standard Sweets & Spices,5/5,"(, - 5 reviews)"
-"3841 Railroad Ave, Pittsburg, CA, United States",37. Mehran Indian Resturant,5/5,"(, - 2 reviews)"
-"1645 Solano Avenue, Berkeley, California, United States",38. Himalayan Tandoori And Curry House,5/5,"(, - 4 reviews)"
-"160 Ellis Street, San Francisco, CA 94102, United States",39. New Delhi Restaurant,none,"(Write a Review)"
-"4001 18th St, San Francisco, CA 94114, United States",40. Kasa Indian Eatery,none,"(Write a Review)"
-"4555 Hopyard Road, Pleasanton, CA, United States",41. Curry Kona- Fusion Food,5/5,"(, - 3 reviews)"
-"856 San Pablo Avenue, Albany, CA, United States",42. Indo Nepalease Cuisine,5/5,"(, - 3 reviews)"
-"163 2nd St #100, San Francisco, CA",43. Tava Kitchen,none,"(Write a Review)"
-"2327 Shattuck Ave, Berkeley, CA 94704, United States",44. Venus,none,"(Write a Review)"
-"250 E Java Dr, Sunnyvale, California 94089, United States",45. Vara Indian Restaurant,none,"(Write a Review)"
-"28 2nd Street, San Francisco, CA 94105, United States",46. Mehfil Indian Cuisine,none,"(Write a Review)"
-"24989 Santa Clara St, Hayward, CA, United States",47. The Golden Peacock Restaurant,none,"(Write a Review)"
-"9703 Soda Bay Rd, Kelseyville, CA, United States",48. Arti Cafe,5/5,"(, - 13 reviews)"
-"326 Commercial St, San Jose, California, United States",49. Nyenya-Batta,5/5,"(, - 4 reviews)"
-"131 Ranch Drive, Milpitas, California, USA",50. Telangana Ruchulu,none,"(Write a Review)"
-"2160 University Ave, Berkeley, CA, USA",51. The Tandoori Nite,none,"(Write a Review)"
-"3077 El Camino Real, Santa Clara, CA 95051, United States",52. Real Ice Cream,none,"(Write a Review)"
-"2700 W El Camino Real, Mountain View, CA, United States",53. The Menu Indian Cuisine,none,"(Write a Review)"
-"29286 Union City Blvd, Union City, CA 94587, United States",54. Kabila Restaurant,none,"(Write a Review)"
-"565 Abrego Street, Monterey, CA, United States",55. Ambrosia India Bistro,none,"(Write a Review)"
-"163 2nd St #100, San Francisco, CA",56. Tava Kitchen,none,"(Write a Review)"
-"948 Clay Street, Oakland, CA, USA",57. Annapurna Restaurant,5/5,"(, - 2 reviews)"
-"1750 E Los Angeles Ave, Simi Valley, California, United States",58. Indian Haweli,5/5,"(, - 3 reviews)"
-"6052 Stevenson Blvd, Fremont, California, USA",59. Kitchen Of Kuchipudi,5/5,"(, - 2 reviews)"
-"2634 Alum Rock Ave, San Jose, CA 95116, United States",60. Jewel Of India Restaurant,none,"(Write a Review)"
-"2656 Bridgeway, Sausalito, CA, United States",61. Avatar's Restaurant,5/5,"(, - 5 reviews)"
-"3352 Mowry Ave, Fremont, CA, United States",62. Chutney Restaurant,none,"(Write a Review)"
-"1819 E Dakota Ave, Fresno, CA 93726, USA",63. Standard Sweets & Spices,5/5,"(, - 5 reviews)"
-"21267 Stevens Creek Blvd, Ste 320, Cupertino, CA 95014, United States",64. Sitar Express,none,"(Write a Review)"
-"1386 9th Avenue, San Francisco, California, United States",65. Gorkha Kitchen,5/5,"(, - 2 reviews)"
-"Fremont, CA, United States",66. TAJ E Chaat,none,"(Write a Review)"
-"Heather Dr, San Pablo, California, USA",67. Naan-Stop Curry,none,"(Write a Review)"
-"5348 W Spruce Ave, Fresno, CA, USA",68. Star Indian Cuisine,none,"(Write a Review)"
-"41031 Fremont Blvd, Fremont, California, USA",69. Lovely Sweets And Snacks,none,"(Write a Review)"
-"2725 El Camino Real, Santa Clara, CA, United States",70. KITCHEN OF KUCHIPUDI,none,"(Write a Review)"
-"2948 20th Street, San Francisco, CA, United States",71. Spices And Aroma Supperclub,5/5,"(, - 3 reviews)"
-"1177 W El Camino Real, Sunnyvale, CA 94087, United States",72. Madras Cafe,none,"(Write a Review)"
-"239 Main St, Pleasanton, California, United States",73. Mirch Restaurant,none,"(Write a Review)"
-"1427 Branham Lane, San Jose, CA 95118, United States",74. Kokilas Kitchen,none,"(Write a Review)"
-"1288 West El Camino Real, Mountain View, CA, United States",75. Namaste Nepal Food Truck,5/5,"(, - 3 reviews)"
-"1007 Valencia St, San Francisco, California, United States",76. Udupi Palace,5/5,"(, - 5 reviews)"
-"2317 Oak Grove Rd, Walnut Creek, CA, USA",77. Patra Indian Grill,5/5,"(, - 3 reviews)"
-"507 4th Street, Santa Rosa, CA, United States",78. Touch Of India,4/5,"(, - 4 reviews)"
-"1103 E El Camino Real, Sunnyvale, CA, United States",79. Sangeetha Restaurants,none,"(Write a Review)"
-"1288 West El Camino Real, Mountain View, CA, United States",80. Namaste Nepal Food Truck,5/5,"(, - 3 reviews)"
-"1269 MacArthur Blvd, San Leandro, California, United States",81. Creasian Taste Of The Himalayas,none,"(Write a Review)"
-"2580 N Main St, Walnut Creek, CA, United States",82. Saroor Indian Cuisine,5/5,"(, - 9 reviews)"
-"715 East 8th Street, Oakland, CA, USA",83. Golden Lotus Vegan,none,"(Write a Review)"
-"810 McClelland Drive, Windsor, CA, United States",84. Himalayan Restaurant Taste Of Nepal And India,5/5,"(, - 4 reviews)"
-"524 Van Ness Avenue, San Francisco, CA, United States",85. August 1 Five Restaurant,5/5,"(, - 2 reviews)"
-"895 Willow St, San Jose, CA 95125, United States",86. New Indian Cuisine,none,"(Write a Review)"
-"1600 Saratoga Ave, San Jose, California, USA",87. Moms Pot Biryani,4/5,"(, - 2 reviews)"
-"2341 El Camino Real, Santa Clara, California, United States",88. Sagar Vegstaurant,none,"(Write a Review)"
-"1143 San Carlos Ave, San Carlos, California 94070, United States",89. Saffron Indian Bistro,none,"(Write a Review)"
-"43852 Pacific Commons Boulevard, Fremont, California, USA",90. Rangoli Flavors Of India,5/5,"(, - 5 reviews)"
-"2025 Santa Rita Road, Pleasanton, CA, USA",91. Curry Cravings,5/5,"(, - 2 reviews)"
-"71 Stevenson Street, Stevenson Street, San Francisco, California, United States",92. Dabba,none,"(Write a Review)"
-"420 South Main Street, Milpitas, CA 95035, United States",93. Milan Indian Cuisine,none,"(Write a Review)"
-"725 S Fair Oaks Ave, Sunnyvale, California, United States",94. Arka Indian Restaurant,none,"(Write a Review)"
-"2574 Esplanade, Chico, California, USA",95. Priya Indian Cuisine,5/5,"(, - 4 reviews)"
-"288 Castro St, Mountain View, CA, United States",96. Park Balluchi Indian Restaurant,5/5,"(, - 5 reviews)"
-"1427 Branham Lane, San Jose, CA 95118, United States",97. Kokilas Kitchen,none,"(Write a Review)"
-"377 Santana Row, San Jose, California, USA",98. Amber India Santanarow,4/5,"(, - 3 reviews)"
-"3325 Walnut Avenue, Fremont, CA 94538, United States",99. Shalimar Restaurant,none,"(Write a Review)"
-"3522 Arden Road, Hayward, CA 94545, United States",100. Pot Pie Paradise,none,"(Write a Review)"
-"39277 Cedar Blvd, Newark, California, United States",101. Spice Kitchen,none,"(Write a Review)"
-"123 2nd Street, San Francisco, CA, United States",102. Avatars Punjabi Burrito,none,"(Write a Review)"
-"5774 Mowry School Rd, Newark, California, United States",103. Mehran Restaurant And Catering,none,"(Write a Review)"
-"1214 Apollo Way, Sunnyvale, CA 94085, United States",104. Sneha South And North Indian Restaurant,none,"(Write a Review)"
-"2860 Quimby Road, San Jose, CA 95148, United States",105. Raj Palace,none,"(Write a Review)"
-"2550 Berryessa Rd, San Jose, CA 95132, United States",106. Bay Leaf Cuisine Of India,none,"(Write a Review)"
-"5316 College Ave, Oakland, California, USA",107. Khana Peena,5/5,"(, - 4 reviews)"
-"29286 Union City Blvd, Union City, CA 94587, United States",108. Kabila Restaurant,none,"(Write a Review)"
-"724 Main Street, Half Moon Bay, CA, United States",109. ARK North Indian Grill,5/5,"(, - 6 reviews)"
-"507 4th Street, Santa Rosa, CA, United States",110. Touch Of India,4/5,"(, - 4 reviews)"
-"39070 Fremont Blvd, Fremont, California, USA",111. Curry Pizza,5/5,"(, - 3 reviews)"
-"3402 El Camino Real, Santa Clara, CA 95051, United States",112. Radhe Chat,none,"(Write a Review)"
-"4166 24th St, San Francisco, CA, United States",113. Holy Kitchen,none,"(Write a Review)"
-"5942 San Pablo Ave, Oakland, CA, United States",114. Namaste Pizza,5/5,"(, - 3 reviews)"
-"480 San Ramon Valley Blvd, Danville, CA, United States",115. Sultans Kebab,5/5,"(, - 3 reviews)"
-"407 Ellis St, San Francisco, California, USA",116. NeWa Indian Restaurant,5/5,"(, - 2 reviews)"
-"Newark, California, United States",117. Ammas Restaurant,none,"(Write a Review)"
-"193 S Murphy Ave, Sunnyvale, California, United States",118. Rasams Indian Restaurant,none,"(Write a Review)"
-"Mountain View, California, United States",119. Chaat Party,none,"(Write a Review)"
-"489 Mission St, San Francisco, CA, United States",120. Zante Pizza  Indian Cuisine,none,"(Write a Review)"
-"212 Ranch Dr, Milpitas, CA, USA",121. Aroma Dining And Banquets,5/5,"(, - 6 reviews)"
-"1373 Solano Ave, Albany, CA 94706, United States",122. Delhi Diner,none,"(Write a Review)"
-"Fremont, CA, United States",123. TAJ E Chaat,none,"(Write a Review)"
-"39407 Fremont Blvd, Fremont, CA, United States",124. Bango's - Bangladeshi Restaurant,5/5,"(, - 3 reviews)"
-"131 Ranch Drive, Milpitas, California, USA",125. Telangana Ruchulu,none,"(Write a Review)"
-"834 Blossom Hill Road, San Jose, CA 95123, United States",126. Chaat Cafe,none,"(Write a Review)"
-"2598 Telegraph Avenue, Berkeley, California, USA",127. MT Everest Restaurant Indian Cuisine,5/5,"(, - 2 reviews)"
-"30 E Santa Clara St, San Jose, California, United States",128. Curry Pundits,none,"(Write a Review)"
-"1150 El Camino Real, San Bruno, CA, United States",129. Curry Express,5/5,"(, - 6 reviews)"
-"209 Park Rd, Burlingame, CA, United States",130. RASA  Contemporary Indian Restaurant,none,"(Write a Review)"
-"131 Ranch Drive, Milpitas, California, USA",131. Telangana Ruchulu,none,"(Write a Review)"
-"100 West American Canyon Road, American Canyon, California, United States",132. All Spice Indian Restaurant,5/5,"(, - 4 reviews)"
-"98 S Second St, San Jose, CA, United States",133. M Asian Fusion Restaurant,5/5,"(, - 3 reviews)"
-" 3988 Washington Blvd Fremont, California, CA",134. Biryani Bowl,5/5,"(, - 4 reviews)"
-"1386 9th Avenue, San Francisco, California, United States",135. Gorkha Kitchen,5/5,"(, - 2 reviews)"
-"4555 Hopyard Road, Pleasanton, CA, United States",136. Thali Restaurant,none,"(Write a Review)"
-"41043 Fremont Blvd, Fremont, CA, United States",137. Dosa Place,none,"(Write a Review)"
-"909 4th St, San Rafael, California, United States",138. Taj Of Marin,none,"(Write a Review)"
-"1427 Branham Lane, San Jose, CA 95118, United States",139. Kokilas Kitchen,none,"(Write a Review)"
-"4555 Hopyard Road, Pleasanton, CA, United States",140. Curry Kona- Fusion Food,5/5,"(, - 3 reviews)"
-"5179 Telegraph Avenue, Oakland, CA, United States",141. Juhu Beach Club,5/5,"(, - 3 reviews)"
-"3037 Pleasanton Avenue, Pleasanton, CA, United States",142. Vedas Indian Restaurant,none,"(Write a Review)"
-"39030 Argonaut Way, Fremont, CA, United States",143. Hyderabad Pavilion,5/5,"(, - 6 reviews)"
-"5144 Mowry Avenue, Fremont, CA, United States",144. Taste Of India Restaurant,5/5,"(, - 1 review)"
-"80 West El Camino Real, Mountain View, California, USA",145. Annachikadai Restaurant,5/5,"(, - 2 reviews)"
-"7150 Village Parkway, Dublin, CA, USA",146. Sri Vasantha Bhavan,5/5,"(, - 1 review)"
-"1165 Reed Ave, Sunnyvale, Santa Clara, California, United States",147. Bawarchi  Authentic Indian Restaurant,none,"(Write a Review)"
-"Emeryville, California, USA",148. MOMOlicious,5/5,"(, - 3 reviews)"
-"4741 W Shaw Ave, Fresno, CA, United States",149. Shan-E-Punjab Punjabi Cuisine,5/5,"(, - 3 reviews)"
-"950 West El Camino Real, Sunnyvale, CA 94087, USA",150. Ugadi Pure Vegetarian Restaurant,none,"(Write a Review)"
-"21267 Stevens Creek Blvd, Ste 320, Cupertino, CA 95014, United States",151. Sitar Express,none,"(Write a Review)"
-"3676 Castro Valley Blvd, Castro Valley, CA, United States",152. Villa Roma Pizza,none,"(Write a Review)"
-"282 Barber Ct, Milpitas, California, United States",153. Aasna Melange Of India,none,"(Write a Review)"
-"15930 Hesperian Blvd, San Lorenzo, CA , United States",154. Flavor Of India North And South Cuisine,none,"(Write a Review)"
-"258 Divisadero St, San Francisco, CA, United States",155. Indian Paradox,5/5,"(, - 3 reviews)"
-"800 California St, Mountain View, California 94041, United States",156. Shivas Indian Restaurant,none,"(Write a Review)"
-"1037 Valencia St, San Francisco, California, United States",157. Aslams Rasoi Indian Restaurant,none,"(Write a Review)"
-"560 North Abel Street, Milpitas, CA 95035, United States",158. Vedas ,none,"(Write a Review)"
-"5995 Mowry Ave, Newark, California 94560, United States",159. Bombay Garden,none,"(Write a Review)"
-"2636 Homestead Rd, Santa Clara, California, United States",160. Dasaprakash Indian Restaurant,none,"(Write a Review)"
-"507 4th Street, Santa Rosa, CA, United States",161. Touch Of India,4/5,"(, - 4 reviews)"
-"151 E El Camino Real, Sunnyvale, CA, United States",162. Bombay To Goa,5/5,"(, - 3 reviews)"
-"6052 Stevenson Blvd, Fremont, California, USA",163. Kitchen Of Kuchipudi,5/5,"(, - 2 reviews)"
-"833 W El Camino Real, Sunnyvale, CA, United States",164. Crescent Cuisine,4/5,"(, - 1 review)"
-"1375 9th Ave, San Francisco, CA 94122, United States",165. Masala Dosa Indian Cuisine,none,"(Write a Review)"
-"251 S Mary Ave, Sunnyvale, California, USA",166. Curry's N More,5/5,"(, - 1 review)"
-"2092 Concourse Dr, San Jose, CA, United States",167. Nawabi Hyderabad House Biryani Place,5/5,"(, - 1 review)"
-"2550 Berryessa Rd, San Jose, CA 95132, United States",168. Bay Leaf Cuisine Of India,none,"(Write a Review)"
-"524 Van Ness Avenue, San Francisco, CA, United States",169. August 1 Five Restaurant,5/5,"(, - 2 reviews)"
-"834 Blossom Hill Rd, San Jose, CA, USA",170. Chaat Cafe,5/5,"(, - 2 reviews)"
-"3077 El Camino Real, Santa Clara, CA 95051, United States",171. Real Ice Cream,none,"(Write a Review)"
-"1585 University Ave, Berkeley, California, USA",172. Himalayan Flavors,none,"(Write a Review)"
-"1026 Court St, San Rafael, CA 94901, United States",173. Naan N Curry Restaurant,none,"(Write a Review)"
-"1 Montgomery Street, San Francisco, CA, United States",174. Junoon Indian Restaurant,none,"(Write a Review)"
-"San Francisco, CA, United States",175. Munch India Food Truck,none,"(Write a Review)"
-"522 Jones St, San Francisco, California, USA",176. Red Chilli,none,"(Write a Review)"
-"1086 North 1st Street, San Jose, CA, USA",177. Karimi Restaurant,none,"(Write a Review)"
-"5316 College Ave, Oakland, California, USA",178. Khana Peena,5/5,"(, - 4 reviews)"
-"4166 24th St, San Francisco, CA, United States",179. Holy Kitchen,none,"(Write a Review)"
-"1888 Solano Ave, Berkeley, CA, United States",180. Ajanta Restaurant,5/5,"(, - 3 reviews)"
-"1269 MacArthur Blvd, San Leandro, California, United States",181. Creasian Taste Of The Himalayas,none,"(Write a Review)"
-"407 Ellis St, San Francisco, California, USA",182. NeWa Indian Restaurant,5/5,"(, - 2 reviews)"
-"2327 Shattuck Ave, Berkeley, CA 94704, United States",183. Venus,none,"(Write a Review)"
-"201 East 3rd Avenue, San Mateo, CA 94401, United States",184. Roti Indian Bistro,none,"(Write a Review)"
-"1040 Columbus Avenue, San Francisco, CA 94133, United States",185. India Curry House,none,"(Write a Review)"
-"1053 e El Camino Real, Sunnyvale, CA, USA",186. Bhavika’s Indian Vegetarian Food,4/5,"(, - 4 reviews)"
-"San Francisco, CA, United States",187. Munch India Food Truck,none,"(Write a Review)"
-"1345 North Willow Avenue, Clovis, CA, United States",188. Slice Of India,5/5,"(, - 3 reviews)"
-"533 Jackson St, San Francisco, California , United States",189. Raavi SF Indian Restaurant,none,"(Write a Review)"
-"27167 Mission Blvd, Hayward, CA 94544, United States",190. Tandoor INDIAN Restaurant,none,"(Write a Review)"
-"30 E Santa Clara St, San Jose, California, United States",191. Curry Pundits,none,"(Write a Review)"
-"603 Old San Francisco Rd, Sunnyvale, California, United States",192. Delhi Chaat Indian Restaurant,none,"(Write a Review)"
-"673 Grape Ave, Sunnyvale, California, United States",193. Amaravathi Indian Pure Vegetarian Restaurant,none,"(Write a Review)"
-"225 W. Winton Ave #100 Hayward, CA ",194. Tandoori Paradise,5/5,"(, - 1 review)"
-"1600 Saratoga Ave, San Jose, California, USA",195. Moms Pot Biryani,4/5,"(, - 2 reviews)"
-"320 3rd St, San Francisco, California, United States",196. Chaat Corner Formerly Cafe Chaat,none,"(Write a Review)"
-"415 North Mary Avenue, Sunnyvale, CA 94085, United States",197. Little India Cafe,none,"(Write a Review)"
-"1147 S De Anza Blvd, San Jose, CA, USA",198. Tarka Tandoori,none,"(Write a Review)"
-"1007 Valencia St, San Francisco, California, United States",199. Udupi Palace,5/5,"(, - 5 reviews)"
-"948 Clay Street, Oakland, CA, USA",200. Annapurna Restaurant,5/5,"(, - 2 reviews)"
-"725 S Fair Oaks Ave, Sunnyvale, California, United States",201. Arka Indian Restaurant,none,"(Write a Review)"
-"2574 Esplanade, Chico, California, USA",202. Priya Indian Cuisine,5/5,"(, - 4 reviews)"
-"538 Lighthouse Ave, Monterey, California, USA",203. Namaste India Bistro,none,"(Write a Review)"
-"39175 Farwell Dr, Fremont, California, USA",204. India Cash & Carry,5/5,"(, - 2 reviews)"
-"2160 University Ave, Berkeley, CA, USA",205. The Tandoori Nite,none,"(Write a Review)"
-"909 4th St, San Rafael, California, United States",206. Taj Of Marin,none,"(Write a Review)"
-"40900 Fremont Blvd, Fremont, California 94538, United States",207. Mirchi Cafe And Masala Pizza,5/5,"(, - 3 reviews)"
-"868 Grant Ave, Novato, California, United States",208. Batika India Bistro,none,"(Write a Review)"
-"288 Castro St, Mountain View, CA, United States",209. Park Balluchi Indian Restaurant,5/5,"(, - 5 reviews)"
-"812 West El Camino Real, Sunnyvale, California, USA",210. Radhe Chaat Express,5/5,"(, - 1 review)"
-"1664 Countryside Dr, Turlock, CA, USA",211. Punjab Express,none,"(Write a Review)"
-"1750 E Los Angeles Ave, Simi Valley, California, United States",212. Indian Haweli,5/5,"(, - 3 reviews)"
-"28 2nd Street, San Francisco, CA 94105, United States",213. Mehfil Indian Cuisine,none,"(Write a Review)"
-" 3988 Washington Blvd Fremont, California, CA",214. Biryani Bowl,5/5,"(, - 4 reviews)"
-"San Jose Kitchen Rentals, 326 Commercial St, San Jose, CA, USA",215. Santhy 5 Star Biryani,5/5,"(, - 2 reviews)"
-"1735 4th St, Eureka, CA, United States",216. Tandoori Bites Indian Cuisine,5/5,"(, - 1 review)"
-"40645 Fremont Blvd. #1, Fremont, CA 94538, United States",217. Krishna Restaurant,none,"(Write a Review)"
-"2242 W Grant Line Rd, Tracy, California, USA",218. Dhaba Indian Cuisine,5/5,"(, - 2 reviews)"
-"209 E Java Dr, Sunnyvale, California, United States",219. Garam Masala Indian Restaurant,none,"(Write a Review)"
-"127 Dixon Landing Road, Milpitas, CA, U.S.A.",220. Bezawada Indian Cusine,5/5,"(, - 3 reviews)"
-"556 S Milpitas Blvd, Milpitas, CA, USA",221. Pista House Milpitas,5/5,"(, - 2 reviews)"
-"1148 Main St, Saint Helena, California, United States",222. Himalayan Sherpa Kitchen,5/5,"(, - 4 reviews)"
-"522 Broadway, Sonoma, CA 95476, USA",223. Delhi Belly Indian Bistro,5/5,"(, - 5 reviews)"
-"39030 Argonaut Way, Fremont, CA, United States",224. The Nawabs Kitchen,5/5,"(, - 5 reviews)"
-"533 Jackson St, San Francisco, California , United States",225. Raavi SF Indian Restaurant,none,"(Write a Review)"
-"160 Ellis Street, San Francisco, CA 94102, United States",226. New Delhi Restaurant,none,"(Write a Review)"
-"2598 Telegraph Avenue, Berkeley, California, USA",227. MT Everest Restaurant Indian Cuisine,5/5,"(, - 2 reviews)"
-"5995 Mowry Ave, Newark, California 94560, United States",228. Bombay Garden,none,"(Write a Review)"
-"2065 Hamilton Ave, San Jose, California, United States",229. Alishan Food Truck,5/5,"(, - 1 review)"
-"962 W El Camino Real, Sunnyvale, CA 94087, United States",230. SHAH Restaurant,none,"(Write a Review)"
-"2001 Bancroft Way, Berkeley, CA 94704, United States",231. Downtown Berkeley Inn,none,"(Write a Review)"
-"1 Montgomery Street, San Francisco, CA, United States",232. Junoon Indian Restaurant,none,"(Write a Review)"
-"2636 Homestead Rd, Santa Clara, California, United States",233. Dasaprakash Indian Restaurant,none,"(Write a Review)"
-"San Jose, California, United States",234. Thali N Biryani,5/5,"(, - 1 review)"
-"34751 Ardenwood Blvd, Fremont, California, United States",235. Chatpatta Corner,5/5,"(, - 3 reviews)"
-"909 4th St, San Rafael, California, United States",236. Taj Of Marin,none,"(Write a Review)"
-"63 Saint Francis Square, Daly City, California, United States",237. Burma Cafe,none,"(Write a Review)"
-"1086 North 1st Street, San Jose, CA, USA",238. Karimi Restaurant,none,"(Write a Review)"
-4088335640,239. Northern Curry Indian Restaurant,none,"(Write a Review)"
-"1645 Flickinger Ave, San Jose, CA 95131, United States",240. New India Chaat Cafe,none,"(Write a Review)"
-"150 University Avenue, Palo Alto, CA, United States",241. Amber Indian Cuisine,none,"(Write a Review)"
-" 14301 Arnold Dr, Ste Ellen Glen Ellen, California, CA ",242. Yeti Restaurant,none,"(Write a Review)"
-"2317 Oak Grove Rd, Walnut Creek, CA, USA",243. Patra Indian Grill,5/5,"(, - 3 reviews)"
-"44755 S Grimmer Blvd, Fremont, California, United States","244. Zeefoods, LLC.",5/5,"(, - 2 reviews)"
-"1888 Solano Ave, Berkeley, CA, United States",245. Ajanta Restaurant,5/5,"(, - 3 reviews)"
-"3064 El Camino Real, Santa Clara, CA 95035, United States",246. Thali Indian Vegetarian Restaurant,none,"(Write a Review)"
-"4001 18th St, San Francisco, CA 94114, United States",247. Kasa Indian Eatery,none,"(Write a Review)"
-"1991 Santa Rita Road, Pleasanton, CA, United States",248. Amaravati House,5/5,"(, - 6 reviews)"
-"3402 El Camino Real, Santa Clara, CA 95051, United States",249. Radhe Chat,none,"(Write a Review)"
-"420 South Main Street, Milpitas, CA 95035, United States",250. Milan Indian Cuisine,none,"(Write a Review)"
-"833 W El Camino Real, Sunnyvale, CA, United States",251. Crescent Cuisine,4/5,"(, - 1 review)"
-"333 Brannan Street, San Francisco, California, USA",252. ROOH,5/5,"(, - 4 reviews)"
-" 14301 Arnold Dr, Ste Ellen Glen Ellen, California, CA ",253. Yeti Restaurant,none,"(Write a Review)"
-"3327 San Felipe Rd, San Jose, CA 95135, United States",254. Rajjot Indian Cuisine And Sweets,none,"(Write a Review)"
-"3379 e El Camino Real, Santa Clara, CA, United States",255. Pesarattu,5/5,"(, - 1 review)"
-"4555 Hopyard Road, Pleasanton, CA, United States",256. Curry Kona- Fusion Food,5/5,"(, - 3 reviews)"
-"1007 Valencia St, San Francisco, California, United States",257. Udupi Palace,5/5,"(, - 5 reviews)"
-"727 S Wolfe Rd, Sunnyvale, CA, United States",258. Jai Ho Indian Multi Cuisine,5/5,"(, - 15 reviews)"
-"2179 West Grant Line Road, Tracy, CA, United States",259. Azhar Halal Grill Restaurant,5/5,"(, - 3 reviews)"
-"3077 El Camino Real, Santa Clara, CA 95051, United States",260. Real Ice Cream,none,"(Write a Review)"
-"962 W El Camino Real, Sunnyvale, CA 94087, United States",261. SHAH Restaurant,none,"(Write a Review)"
-"2232 El Camino Real, Santa Clara, CA 95050, United States",262. Mayuri Indian Cuisine,none,"(Write a Review)"
-"489 Mission St, San Francisco, CA, United States",263. Zante Pizza  Indian Cuisine,none,"(Write a Review)"
-"39030 Argonaut Way, Fremont, CA, United States",264. Hyderabad Pavilion,5/5,"(, - 6 reviews)"
-"369 Lytton Ave, Palo Alto, CA 94301, United States",265. Janta Indian Cuisine,none,"(Write a Review)"
-"Mountain View, California, United States",266. Chaat Party,none,"(Write a Review)"
-"193 S Murphy Ave, Sunnyvale, California, United States",267. Rasams Indian Restaurant,none,"(Write a Review)"
-"80 West El Camino Real, Mountain View, California, USA",268. Annachikadai Restaurant,5/5,"(, - 2 reviews)"
-"40559 Fremont Blvd, Fremont, CA 94538, United States",269. Tandoor House Restaurant,none,"(Write a Review)"
-"210 Rose Ave, Pleasanton, CA, United States",270. India Garden,5/5,"(, - 1 review)"
-"2220 First St, Livermore, California 94550, United States",271. Sansar Indian Cuisine,none,"(Write a Review)"
-"151 E El Camino Real, Sunnyvale, CA, United States",272. Bombay To Goa,5/5,"(, - 3 reviews)"
-"3720 Mowry Avenue, Fremont, CA 94538, United States",273. Saravana Bhavan Vegetarian Restaurant,none,"(Write a Review)"
-"2713 Whitson St, Selma, California, United States",274. Asoka Indian Cuisine Restaurant,5/5,"(, - 2 reviews)"
-"24 Sunnyside Ave, Mill Valley, California, United States",275. PRABH Indian Kitchen,none,"(Write a Review)"
-"2598 Telegraph Avenue, Berkeley, California, USA",276. MT Everest Restaurant Indian Cuisine,5/5,"(, - 2 reviews)"
-"225 W. Winton Ave #100 Hayward, CA ",277. Tandoori Paradise,5/5,"(, - 1 review)"
-"2118 Willow Pass Rd, Concord, CA, USA",278. Himalayan Cuisine,5/5,"(, - 4 reviews)"
-"2175 South El Camino Real, San Mateo, California 94403, USA",279. The Stone Villa Inn,none,"(Write a Review)"
-"1208 S Abel St, Milpitas, California, USA",280. Tirupathi Bhimas Restaurant,5/5,"(, - 2 reviews)"
-"129 Lytton Ave, Palo Alto, California, United States",281. Darbar Indian Cuisine,none,"(Write a Review)"
-"32513 Mission Blvd, Hayward, CA, United States",282. Apna Dhaba,4/5,"(, - 7 reviews)"
-"1053 e El Camino Real, Sunnyvale, CA, USA",283. Bhavika’s Indian Vegetarian Food,4/5,"(, - 4 reviews)"
-"San Jose, California, United States",284. Thali N Biryani,5/5,"(, - 1 review)"
-"326 Commercial Street, San Jose, CA, United States",285. Curry On Wheels,5/5,"(, - 3 reviews)"
-"1086 North 1st Street, San Jose, CA, USA",286. Karimi Restaurant,none,"(Write a Review)"
-"40900 Fremont Blvd, Fremont, California 94538, United States",287. Mirchi Cafe And Masala Pizza,5/5,"(, - 3 reviews)"
-"450 S Norfolk St, San Mateo, California, USA",288. Tabla Indian Restaurant,5/5,"(, - 3 reviews)"
-"4166 24th St, San Francisco, CA, United States",289. Holy Kitchen,none,"(Write a Review)"
-"2323 Shattuck Ave, Berkeley, California 94704, United States",290. Namaste Madras Indian Cuisine,none,"(Write a Review)"
-"4555 Hopyard Road, Pleasanton, CA, United States",291. Curry Kona- Fusion Food,5/5,"(, - 3 reviews)"
-"1536 N Vasco Rd, Livermore, California, USA",292. Caraway Indian Cuisine,5/5,"(, - 3 reviews)"
-"5348 W Spruce Ave, Fresno, CA, USA",293. Star Indian Cuisine,none,"(Write a Review)"
-"659 Valencia Street, San Francisco, CA, United States",294. Curry Up Now Food Truck,none,"(Write a Review)"
-"San Francisco, CA, United States",295. Munch India Food Truck,none,"(Write a Review)"
-"1513 Shattuck Ave, Berkeley, California 94709, United States",296. Tigerlily,none,"(Write a Review)"
-"21267 Stevens Creek Blvd, Ste 320, Cupertino, CA 95014, United States",297. Sitar Express,none,"(Write a Review)"
-"3077 El Camino Real, Santa Clara, California, United States",298. Bangalore Cafe,none,"(Write a Review)"
-"2700 W El Camino Real, Mountain View, CA, United States",299. The Menu Indian Cuisine,none,"(Write a Review)"
-"5350 Great America Pkwy, Santa Clara, California, USA",300. Golkonda Indian Cuisine,none,"(Write a Review)"
-"5144 Mowry Avenue, Fremont, CA, United States",301. Taste Of India Restaurant,5/5,"(, - 1 review)"
-"43852 Pacific Commons Boulevard, Fremont, California, USA",302. Rangoli Flavors Of India,5/5,"(, - 5 reviews)"
-"40827 Fremont Blvd, Fremont, California, USA",303. Bawarchi,none,"(Write a Review)"
-"1143 San Carlos Ave, San Carlos, California 94070, United States",304. Saffron Indian Bistro,none,"(Write a Review)"
-"536 Golden Gate Ave, San Francisco, California, United States",305. Mela Tandoori Kitchen,none,"(Write a Review)"
-"1427 Branham Lane, San Jose, CA 95118, United States",306. Kokilas Kitchen,none,"(Write a Review)"
-"83 Eddy Street, San Francisco, CA 94102, United States",307. Little Delhi Restaurant,none,"(Write a Review)"
-"895 Willow St, San Jose, CA 95125, United States",308. New Indian Cuisine,none,"(Write a Review)"
-"2554 Appian Way, Pinole, CA, United States",309. Tandoor Restaurant,5/5,"(, - 6 reviews)"
-"5995 Mowry Ave, Newark, California 94560, United States",310. Bombay Garden,none,"(Write a Review)"
-"129 Lytton Ave, Palo Alto, California, United States",311. Darbar Indian Cuisine,none,"(Write a Review)"
-"20007 Stevens Creek Blvd, Cupertino, CA 95014, United States",312. Shan Restaurant,none,"(Write a Review)"
-"2500 Bryant Street, San Francisco, CA, United States",313. The Spice Jar,5/5,"(, - 10 reviews)"
-"39030 Argonaut Way, Fremont, CA, United States",314. Hyderabad Pavilion,5/5,"(, - 6 reviews)"
-"Fremont, CA, United States",315. TAJ E Chaat,none,"(Write a Review)"
-"98 S Second St, San Jose, CA, United States",316. M Asian Fusion Restaurant,5/5,"(, - 3 reviews)"
-"52 Ranch Drive, Milpitas, California, USA",317. Dindigul Thalappakatti Restaurant,none,"(Write a Review)"
-"920e East Arques Avenue, Sunnyvale, CA 94085, United States",318. Sri Ananda Bhavan,none,"(Write a Review)"
-"2065 Hamilton Ave, San Jose, California, United States",319. Alishan Food Truck,5/5,"(, - 1 review)"
-"3327 San Felipe Rd, San Jose, CA 95135, United States",320. Rajjot Indian Cuisine And Sweets,none,"(Write a Review)"
-"282 Barber Ct, Milpitas, California, United States",321. Aasna Melange Of India,none,"(Write a Review)"
-"724 Main Street, Half Moon Bay, CA, United States",322. ARK North Indian Grill,5/5,"(, - 6 reviews)"
-"San Francisco, CA, United States",323. Munch India Food Truck,none,"(Write a Review)"
-"1037 Valencia St, San Francisco, California, United States",324. Aslams Rasoi Indian Restaurant,none,"(Write a Review)"
-"1635 Hollenbeck Ave, Sunnyvale, California, United States",325. Kings Of Punjab,none,"(Write a Review)"
-"129 Lytton Ave, Palo Alto, California, United States",326. Darbar Indian Cuisine,none,"(Write a Review)"
-"80 Ranch Dr, Milpitas, CA, United States",327. Mirch Masala,none,"(Write a Review)"
-"Fremont, California, USA",328. Masala Theory,none,"(Write a Review)"
-"Newark, California, United States",329. Ammas Restaurant,none,"(Write a Review)"
-"1037 Valencia St, San Francisco, California, United States",330. Aslams Rasoi Indian Restaurant,none,"(Write a Review)"
-"1373 Solano Ave, Albany, CA 94706, United States",331. Delhi Diner,none,"(Write a Review)"
-"927 East Arques Avenue, Sunnyvale, CA, United States",332. Indian Street Cafe,5/5,"(, - 3 reviews)"
-"2051 El Camino Real, Palo Alto, CA, United States",333. Cardinal Sushi,5/5,"(, - 1 review)"
-"42136 Blacow Rd, Fremont, CA, United States",334. Pizza And Curry,5/5,"(, - 3 reviews)"
-"100 West American Canyon Road, American Canyon, California, United States",335. All Spice Indian Restaurant,5/5,"(, - 4 reviews)"
-"3402 El Camino Real, Santa Clara, CA 95051, United States",336. Radhe Chat,none,"(Write a Review)"
-"810 Pacific Ave, Santa Cruz, CA, USA",337. Mumbai Delights,5/5,"(, - 1 review)"
-"520 E Santa Clara St, San Jose, California, United States",338. Vegetarian House,none,"(Write a Review)"
-"525 Los Coches St, Milpitas, CA 95035, United States",339. Jalsa Catering And Events,none,"(Write a Review)"
-"Serving the Bay  Area",340. IGrill Restaurant,5/5,"(, - 5 reviews)"
-"Serving the Bay  Area",341. Mangoes Indian Cuisine,none,"(Write a Review)"
-"Serving the Bay  Area",342. THE LOT,4/5,"(, - 20 reviews)"
-"Serving the Bay  Area",343. Bombay To Goa,5/5,"(, - 9 reviews)"
-"Serving the Bay  Area",344. Mia Jee Tandoori,5/5,"(, - 7 reviews)"
+"6167 Jarvis Ave, Newark, CA, USA",1. Oasis Palace Restaurant,4/5,"
+(, - 1 review)
+"
+"411 Main Street, Pleasanton, CA, United States",2. Frontier Spice Indian Restaurant And Catering,5/5,"
+(, - 7 reviews)
+"
+"856 W El Camino Real, Mountain View, CA, United States",3. Chennai Kings,5/5,"
+(, - 6 reviews)
+"
+"326 Commercial Street, San Jose, CA, USA",4. The Everest Momo,5/5,"
+(, - 19 reviews)
+"
+"1143 San Carlos Ave, San Carlos, California 94070, United States",5. Saffron Indian Bistro,none,"
+(Write a Review)
+"
+"834 Blossom Hill Road, San Jose, CA 95123, United States",6. Chaat Cafe,none,"
+(Write a Review)
+"
+"7225 Healdsburg Ave, Sebastopol, CA, United States",7. Marigold Indian Bistro,5/5,"
+(, - 4 reviews)
+"
+"560 North Abel Street, Milpitas, CA 95035, United States",8. Vedas ,none,"
+(Write a Review)
+"
+"Fremont, California, USA",9. Masala Theory,none,"
+(Write a Review)
+"
+"15930 Hesperian Blvd, San Lorenzo, CA , United States",10. Flavor Of India North And South Cuisine,none,"
+(Write a Review)
+"
+"5774 Mowry School Rd, Newark, California, United States",11. Mehran Restaurant And Catering,none,"
+(Write a Review)
+"
+"5959 Shellmound St, Emeryville, California, United States",12. Wazwan Cuisine Of India,none,"
+(Write a Review)
+"
+"800 California St, Mountain View, California 94041, United States",13. Shivas Indian Restaurant,none,"
+(Write a Review)
+"
+"71 Stevenson Street, Stevenson Street, San Francisco, California, United States",14. Dabba,none,"
+(Write a Review)
+"
+"20007 Stevens Creek Blvd, Cupertino, CA 95014, United States",15. Shan Restaurant,none,"
+(Write a Review)
+"
+"925 Blossom Hill Rd, San Jose, California, USA",16. Curry Roots,none,"
+(Write a Review)
+"
+"3037 Pleasanton Avenue, Pleasanton, CA, United States",17. Vedas Indian Restaurant,none,"
+(Write a Review)
+"
+"3295 Woodward Ave, Santa Clara, California, United States",18. Dil Se Eatery,5/5,"
+(, - 2 reviews)
+"
+"2634 Alum Rock Ave, San Jose, CA 95116, United States",19. Jewel Of India Restaurant,none,"
+(Write a Review)
+"
+"4741 W Shaw Ave, Fresno, CA, United States",20. Shan-E-Punjab Punjabi Cuisine,5/5,"
+(, - 3 reviews)
+"
+"258 Divisadero St, San Francisco, CA, United States",21. Indian Paradox,5/5,"
+(, - 3 reviews)
+"
+"3180 Santa Rita Rd, Pleasanton, California, USA",22. Sri Venkatesh Bhavan,5/5,"
+(, - 2 reviews)
+"
+"3064 El Camino Real, Santa Clara, CA 95035, United States",23. Thali Indian Vegetarian Restaurant,none,"
+(Write a Review)
+"
+"522 Jones St, San Francisco, California, USA",24. Red Chilli,none,"
+(Write a Review)
+"
+"5134 Stevens Creek Blvd, San Jose, CA, United States",25. New Tandoori Cafe,5/5,"
+(, - 5 reviews)
+"
+"659 Valencia Street, San Francisco, CA, United States",26. Curry Up Now Food Truck,none,"
+(Write a Review)
+"
+"4238 18th St, San Francisco, CA, United States",27. CurryBoyzz Indian Restaurant,5/5,"
+(, - 3 reviews)
+"
+"810 Pacific Ave, Santa Cruz, CA, USA",28. Mumbai Delights,5/5,"
+(, - 1 review)
+"
+"21267 Stevens Creek Freeway, Cupertino, CA, United States",29. Chaat House Indian Restuarant,5/5,"
+(, - 2 reviews)
+"
+"40827 Fremont Blvd, Fremont, California, USA",30. Bawarchi,none,"
+(Write a Review)
+"
+"288 Castro St, Mountain View, CA, United States",31. Park Balluchi Indian Restaurant,5/5,"
+(, - 5 reviews)
+"
+"2725 El Camino Real, Santa Clara, CA, United States",33. KITCHEN OF KUCHIPUDI,none,"
+(Write a Review)
+"
+"2713 Whitson St, Selma, California, United States",34. Asoka Indian Cuisine Restaurant,5/5,"
+(, - 2 reviews)
+"
+"320 3rd St, San Francisco, California, United States",35. Chaat Corner Formerly Cafe Chaat,none,"
+(Write a Review)
+"
+"1819 E Dakota Ave, Fresno, CA 93726, USA",36. Standard Sweets & Spices,5/5,"
+(, - 5 reviews)
+"
+"3841 Railroad Ave, Pittsburg, CA, United States",37. Mehran Indian Resturant,5/5,"
+(, - 2 reviews)
+"
+"1645 Solano Avenue, Berkeley, California, United States",38. Himalayan Tandoori And Curry House,5/5,"
+(, - 4 reviews)
+"
+"160 Ellis Street, San Francisco, CA 94102, United States",39. New Delhi Restaurant,none,"
+(Write a Review)
+"
+"4001 18th St, San Francisco, CA 94114, United States",40. Kasa Indian Eatery,none,"
+(Write a Review)
+"
+"4555 Hopyard Road, Pleasanton, CA, United States",41. Curry Kona- Fusion Food,5/5,"
+(, - 3 reviews)
+"
+"856 San Pablo Avenue, Albany, CA, United States",42. Indo Nepalease Cuisine,5/5,"
+(, - 3 reviews)
+"
+"163 2nd St #100, San Francisco, CA",43. Tava Kitchen,none,"
+(Write a Review)
+"
+"2327 Shattuck Ave, Berkeley, CA 94704, United States",44. Venus,none,"
+(Write a Review)
+"
+"250 E Java Dr, Sunnyvale, California 94089, United States",45. Vara Indian Restaurant,none,"
+(Write a Review)
+"
+"28 2nd Street, San Francisco, CA 94105, United States",46. Mehfil Indian Cuisine,none,"
+(Write a Review)
+"
+"24989 Santa Clara St, Hayward, CA, United States",47. The Golden Peacock Restaurant,none,"
+(Write a Review)
+"
+"9703 Soda Bay Rd, Kelseyville, CA, United States",48. Arti Cafe,5/5,"
+(, - 13 reviews)
+"
+"326 Commercial St, San Jose, California, United States",49. Nyenya-Batta,5/5,"
+(, - 4 reviews)
+"
+"131 Ranch Drive, Milpitas, California, USA",50. Telangana Ruchulu,none,"
+(Write a Review)
+"
+"2160 University Ave, Berkeley, CA, USA",51. The Tandoori Nite,none,"
+(Write a Review)
+"
+"3077 El Camino Real, Santa Clara, CA 95051, United States",52. Real Ice Cream,none,"
+(Write a Review)
+"
+"2700 W El Camino Real, Mountain View, CA, United States",53. The Menu Indian Cuisine,none,"
+(Write a Review)
+"
+"29286 Union City Blvd, Union City, CA 94587, United States",54. Kabila Restaurant,none,"
+(Write a Review)
+"
+"565 Abrego Street, Monterey, CA, United States",55. Ambrosia India Bistro,none,"
+(Write a Review)
+"
+"163 2nd St #100, San Francisco, CA",56. Tava Kitchen,none,"
+(Write a Review)
+"
+"948 Clay Street, Oakland, CA, USA",57. Annapurna Restaurant,5/5,"
+(, - 2 reviews)
+"
+"1750 E Los Angeles Ave, Simi Valley, California, United States",58. Indian Haweli,5/5,"
+(, - 3 reviews)
+"
+"6052 Stevenson Blvd, Fremont, California, USA",59. Kitchen Of Kuchipudi,5/5,"
+(, - 2 reviews)
+"
+"2634 Alum Rock Ave, San Jose, CA 95116, United States",60. Jewel Of India Restaurant,none,"
+(Write a Review)
+"
+"2656 Bridgeway, Sausalito, CA, United States",61. Avatar's Restaurant,5/5,"
+(, - 5 reviews)
+"
+"3352 Mowry Ave, Fremont, CA, United States",62. Chutney Restaurant,none,"
+(Write a Review)
+"
+"1819 E Dakota Ave, Fresno, CA 93726, USA",63. Standard Sweets & Spices,5/5,"
+(, - 5 reviews)
+"
+"21267 Stevens Creek Blvd, Ste 320, Cupertino, CA 95014, United States",64. Sitar Express,none,"
+(Write a Review)
+"
+"1386 9th Avenue, San Francisco, California, United States",65. Gorkha Kitchen,5/5,"
+(, - 2 reviews)
+"
+"Fremont, CA, United States",66. TAJ E Chaat,none,"
+(Write a Review)
+"
+"Heather Dr, San Pablo, California, USA",67. Naan-Stop Curry,none,"
+(Write a Review)
+"
+"5348 W Spruce Ave, Fresno, CA, USA",68. Star Indian Cuisine,none,"
+(Write a Review)
+"
+"41031 Fremont Blvd, Fremont, California, USA",69. Lovely Sweets And Snacks,none,"
+(Write a Review)
+"
+"2725 El Camino Real, Santa Clara, CA, United States",70. KITCHEN OF KUCHIPUDI,none,"
+(Write a Review)
+"
+"2948 20th Street, San Francisco, CA, United States",71. Spices And Aroma Supperclub,5/5,"
+(, - 3 reviews)
+"
+"1177 W El Camino Real, Sunnyvale, CA 94087, United States",72. Madras Cafe,none,"
+(Write a Review)
+"
+"239 Main St, Pleasanton, California, United States",73. Mirch Restaurant,none,"
+(Write a Review)
+"
+"1427 Branham Lane, San Jose, CA 95118, United States",74. Kokilas Kitchen,none,"
+(Write a Review)
+"
+"1288 West El Camino Real, Mountain View, CA, United States",75. Namaste Nepal Food Truck,5/5,"
+(, - 3 reviews)
+"
+"1007 Valencia St, San Francisco, California, United States",76. Udupi Palace,5/5,"
+(, - 5 reviews)
+"
+"2317 Oak Grove Rd, Walnut Creek, CA, USA",77. Patra Indian Grill,5/5,"
+(, - 3 reviews)
+"
+"507 4th Street, Santa Rosa, CA, United States",78. Touch Of India,4/5,"
+(, - 4 reviews)
+"
+"1103 E El Camino Real, Sunnyvale, CA, United States",79. Sangeetha Restaurants,none,"
+(Write a Review)
+"
+"1288 West El Camino Real, Mountain View, CA, United States",80. Namaste Nepal Food Truck,5/5,"
+(, - 3 reviews)
+"
+"1269 MacArthur Blvd, San Leandro, California, United States",81. Creasian Taste Of The Himalayas,none,"
+(Write a Review)
+"
+"2580 N Main St, Walnut Creek, CA, United States",82. Saroor Indian Cuisine,5/5,"
+(, - 9 reviews)
+"
+"715 East 8th Street, Oakland, CA, USA",83. Golden Lotus Vegan,none,"
+(Write a Review)
+"
+"810 McClelland Drive, Windsor, CA, United States",84. Himalayan Restaurant Taste Of Nepal And India,5/5,"
+(, - 4 reviews)
+"
+"524 Van Ness Avenue, San Francisco, CA, United States",85. August 1 Five Restaurant,5/5,"
+(, - 2 reviews)
+"
+"895 Willow St, San Jose, CA 95125, United States",86. New Indian Cuisine,none,"
+(Write a Review)
+"
+"1600 Saratoga Ave, San Jose, California, USA",87. Moms Pot Biryani,4/5,"
+(, - 2 reviews)
+"
+"2341 El Camino Real, Santa Clara, California, United States",88. Sagar Vegstaurant,none,"
+(Write a Review)
+"
+"43852 Pacific Commons Boulevard, Fremont, California, USA",90. Rangoli Flavors Of India,5/5,"
+(, - 5 reviews)
+"
+"2025 Santa Rita Road, Pleasanton, CA, USA",91. Curry Cravings,5/5,"
+(, - 2 reviews)
+"
+"71 Stevenson Street, Stevenson Street, San Francisco, California, United States",92. Dabba,none,"
+(Write a Review)
+"
+"420 South Main Street, Milpitas, CA 95035, United States",93. Milan Indian Cuisine,none,"
+(Write a Review)
+"
+"725 S Fair Oaks Ave, Sunnyvale, California, United States",94. Arka Indian Restaurant,none,"
+(Write a Review)
+"
+"2574 Esplanade, Chico, California, USA",95. Priya Indian Cuisine,5/5,"
+(, - 4 reviews)
+"
+"288 Castro St, Mountain View, CA, United States",96. Park Balluchi Indian Restaurant,5/5,"
+(, - 5 reviews)
+"
+"1427 Branham Lane, San Jose, CA 95118, United States",97. Kokilas Kitchen,none,"
+(Write a Review)
+"
+"377 Santana Row, San Jose, California, USA",98. Amber India Santanarow,4/5,"
+(, - 3 reviews)
+"
+"3325 Walnut Avenue, Fremont, CA 94538, United States",99. Shalimar Restaurant,none,"
+(Write a Review)
+"
+"3522 Arden Road, Hayward, CA 94545, United States",100. Pot Pie Paradise,none,"
+(Write a Review)
+"
+"39277 Cedar Blvd, Newark, California, United States",101. Spice Kitchen,none,"
+(Write a Review)
+"
+"123 2nd Street, San Francisco, CA, United States",102. Avatars Punjabi Burrito,none,"
+(Write a Review)
+"
+"1214 Apollo Way, Sunnyvale, CA 94085, United States",104. Sneha South And North Indian Restaurant,none,"
+(Write a Review)
+"
+"2860 Quimby Road, San Jose, CA 95148, United States",105. Raj Palace,none,"
+(Write a Review)
+"
+"2550 Berryessa Rd, San Jose, CA 95132, United States",106. Bay Leaf Cuisine Of India,none,"
+(Write a Review)
+"
+"5316 College Ave, Oakland, California, USA",107. Khana Peena,5/5,"
+(, - 4 reviews)
+"
+"29286 Union City Blvd, Union City, CA 94587, United States",108. Kabila Restaurant,none,"
+(Write a Review)
+"
+"724 Main Street, Half Moon Bay, CA, United States",109. ARK North Indian Grill,5/5,"
+(, - 6 reviews)
+"
+"507 4th Street, Santa Rosa, CA, United States",110. Touch Of India,4/5,"
+(, - 4 reviews)
+"
+"39070 Fremont Blvd, Fremont, California, USA",111. Curry Pizza,5/5,"
+(, - 3 reviews)
+"
+"3402 El Camino Real, Santa Clara, CA 95051, United States",112. Radhe Chat,none,"
+(Write a Review)
+"
+"4166 24th St, San Francisco, CA, United States",113. Holy Kitchen,none,"
+(Write a Review)
+"
+"5942 San Pablo Ave, Oakland, CA, United States",114. Namaste Pizza,5/5,"
+(, - 3 reviews)
+"
+"480 San Ramon Valley Blvd, Danville, CA, United States",115. Sultans Kebab,5/5,"
+(, - 3 reviews)
+"
+"407 Ellis St, San Francisco, California, USA",116. NeWa Indian Restaurant,5/5,"
+(, - 2 reviews)
+"
+"Newark, California, United States",117. Ammas Restaurant,none,"
+(Write a Review)
+"
+"193 S Murphy Ave, Sunnyvale, California, United States",118. Rasams Indian Restaurant,none,"
+(Write a Review)
+"
+"Mountain View, California, United States",119. Chaat Party,none,"
+(Write a Review)
+"
+"489 Mission St, San Francisco, CA, United States",120. Zante Pizza  Indian Cuisine,none,"
+(Write a Review)
+"
+"212 Ranch Dr, Milpitas, CA, USA",121. Aroma Dining And Banquets,5/5,"
+(, - 6 reviews)
+"
+"1373 Solano Ave, Albany, CA 94706, United States",122. Delhi Diner,none,"
+(Write a Review)
+"
+"Fremont, CA, United States",123. TAJ E Chaat,none,"
+(Write a Review)
+"
+"39407 Fremont Blvd, Fremont, CA, United States",124. Bango's - Bangladeshi Restaurant,5/5,"
+(, - 3 reviews)
+"
+"131 Ranch Drive, Milpitas, California, USA",125. Telangana Ruchulu,none,"
+(Write a Review)
+"
+"2598 Telegraph Avenue, Berkeley, California, USA",127. MT Everest Restaurant Indian Cuisine,5/5,"
+(, - 2 reviews)
+"
+"30 E Santa Clara St, San Jose, California, United States",128. Curry Pundits,none,"
+(Write a Review)
+"
+"1150 El Camino Real, San Bruno, CA, United States",129. Curry Express,5/5,"
+(, - 6 reviews)
+"
+"209 Park Rd, Burlingame, CA, United States",130. RASA  Contemporary Indian Restaurant,none,"
+(Write a Review)
+"
+"131 Ranch Drive, Milpitas, California, USA",131. Telangana Ruchulu,none,"
+(Write a Review)
+"
+"100 West American Canyon Road, American Canyon, California, United States",132. All Spice Indian Restaurant,5/5,"
+(, - 4 reviews)
+"
+"98 S Second St, San Jose, CA, United States",133. M Asian Fusion Restaurant,5/5,"
+(, - 3 reviews)
+"
+" 3988 Washington Blvd Fremont, California, CA",134. Biryani Bowl,5/5,"
+(, - 4 reviews)
+"
+"1386 9th Avenue, San Francisco, California, United States",135. Gorkha Kitchen,5/5,"
+(, - 2 reviews)
+"
+"4555 Hopyard Road, Pleasanton, CA, United States",136. Thali Restaurant,none,"
+(Write a Review)
+"
+"41043 Fremont Blvd, Fremont, CA, United States",137. Dosa Place,none,"
+(Write a Review)
+"
+"909 4th St, San Rafael, California, United States",138. Taj Of Marin,none,"
+(Write a Review)
+"
+"1427 Branham Lane, San Jose, CA 95118, United States",139. Kokilas Kitchen,none,"
+(Write a Review)
+"
+"4555 Hopyard Road, Pleasanton, CA, United States",140. Curry Kona- Fusion Food,5/5,"
+(, - 3 reviews)
+"
+"5179 Telegraph Avenue, Oakland, CA, United States",141. Juhu Beach Club,5/5,"
+(, - 3 reviews)
+"
+"3037 Pleasanton Avenue, Pleasanton, CA, United States",142. Vedas Indian Restaurant,none,"
+(Write a Review)
+"
+"39030 Argonaut Way, Fremont, CA, United States",143. Hyderabad Pavilion,5/5,"
+(, - 6 reviews)
+"
+"5144 Mowry Avenue, Fremont, CA, United States",144. Taste Of India Restaurant,5/5,"
+(, - 1 review)
+"
+"80 West El Camino Real, Mountain View, California, USA",145. Annachikadai Restaurant,5/5,"
+(, - 2 reviews)
+"
+"7150 Village Parkway, Dublin, CA, USA",146. Sri Vasantha Bhavan,5/5,"
+(, - 1 review)
+"
+"1165 Reed Ave, Sunnyvale, Santa Clara, California, United States",147. Bawarchi  Authentic Indian Restaurant,none,"
+(Write a Review)
+"
+"Emeryville, California, USA",148. MOMOlicious,5/5,"
+(, - 3 reviews)
+"
+"4741 W Shaw Ave, Fresno, CA, United States",149. Shan-E-Punjab Punjabi Cuisine,5/5,"
+(, - 3 reviews)
+"
+"950 West El Camino Real, Sunnyvale, CA 94087, USA",150. Ugadi Pure Vegetarian Restaurant,none,"
+(Write a Review)
+"
+"21267 Stevens Creek Blvd, Ste 320, Cupertino, CA 95014, United States",151. Sitar Express,none,"
+(Write a Review)
+"
+"3676 Castro Valley Blvd, Castro Valley, CA, United States",152. Villa Roma Pizza,none,"
+(Write a Review)
+"
+"282 Barber Ct, Milpitas, California, United States",153. Aasna Melange Of India,none,"
+(Write a Review)
+"
+"258 Divisadero St, San Francisco, CA, United States",155. Indian Paradox,5/5,"
+(, - 3 reviews)
+"
+"1037 Valencia St, San Francisco, California, United States",157. Aslams Rasoi Indian Restaurant,none,"
+(Write a Review)
+"
+"5995 Mowry Ave, Newark, California 94560, United States",159. Bombay Garden,none,"
+(Write a Review)
+"
+"2636 Homestead Rd, Santa Clara, California, United States",160. Dasaprakash Indian Restaurant,none,"
+(Write a Review)
+"
+"507 4th Street, Santa Rosa, CA, United States",161. Touch Of India,4/5,"
+(, - 4 reviews)
+"
+"151 E El Camino Real, Sunnyvale, CA, United States",162. Bombay To Goa,5/5,"
+(, - 3 reviews)
+"
+"6052 Stevenson Blvd, Fremont, California, USA",163. Kitchen Of Kuchipudi,5/5,"
+(, - 2 reviews)
+"
+"833 W El Camino Real, Sunnyvale, CA, United States",164. Crescent Cuisine,4/5,"
+(, - 1 review)
+"
+"1375 9th Ave, San Francisco, CA 94122, United States",165. Masala Dosa Indian Cuisine,none,"
+(Write a Review)
+"
+"251 S Mary Ave, Sunnyvale, California, USA",166. Curry's N More,5/5,"
+(, - 1 review)
+"
+"2092 Concourse Dr, San Jose, CA, United States",167. Nawabi Hyderabad House Biryani Place,5/5,"
+(, - 1 review)
+"
+"2550 Berryessa Rd, San Jose, CA 95132, United States",168. Bay Leaf Cuisine Of India,none,"
+(Write a Review)
+"
+"524 Van Ness Avenue, San Francisco, CA, United States",169. August 1 Five Restaurant,5/5,"
+(, - 2 reviews)
+"
+"834 Blossom Hill Rd, San Jose, CA, USA",170. Chaat Cafe,5/5,"
+(, - 2 reviews)
+"
+"3077 El Camino Real, Santa Clara, CA 95051, United States",171. Real Ice Cream,none,"
+(Write a Review)
+"
+"1585 University Ave, Berkeley, California, USA",172. Himalayan Flavors,none,"
+(Write a Review)
+"
+"1026 Court St, San Rafael, CA 94901, United States",173. Naan N Curry Restaurant,none,"
+(Write a Review)
+"
+"1 Montgomery Street, San Francisco, CA, United States",174. Junoon Indian Restaurant,none,"
+(Write a Review)
+"
+"San Francisco, CA, United States",175. Munch India Food Truck,none,"
+(Write a Review)
+"
+"522 Jones St, San Francisco, California, USA",176. Red Chilli,none,"
+(Write a Review)
+"
+"1086 North 1st Street, San Jose, CA, USA",177. Karimi Restaurant,none,"
+(Write a Review)
+"
+"5316 College Ave, Oakland, California, USA",178. Khana Peena,5/5,"
+(, - 4 reviews)
+"
+"4166 24th St, San Francisco, CA, United States",179. Holy Kitchen,none,"
+(Write a Review)
+"
+"1888 Solano Ave, Berkeley, CA, United States",180. Ajanta Restaurant,5/5,"
+(, - 3 reviews)
+"
+"1269 MacArthur Blvd, San Leandro, California, United States",181. Creasian Taste Of The Himalayas,none,"
+(Write a Review)
+"
+"407 Ellis St, San Francisco, California, USA",182. NeWa Indian Restaurant,5/5,"
+(, - 2 reviews)
+"
+"2327 Shattuck Ave, Berkeley, CA 94704, United States",183. Venus,none,"
+(Write a Review)
+"
+"201 East 3rd Avenue, San Mateo, CA 94401, United States",184. Roti Indian Bistro,none,"
+(Write a Review)
+"
+"1040 Columbus Avenue, San Francisco, CA 94133, United States",185. India Curry House,none,"
+(Write a Review)
+"
+"1053 e El Camino Real, Sunnyvale, CA, USA",186. Bhavika’s Indian Vegetarian Food,4/5,"
+(, - 4 reviews)
+"
+"San Francisco, CA, United States",187. Munch India Food Truck,none,"
+(Write a Review)
+"
+"1345 North Willow Avenue, Clovis, CA, United States",188. Slice Of India,5/5,"
+(, - 3 reviews)
+"
+"533 Jackson St, San Francisco, California , United States",189. Raavi SF Indian Restaurant,none,"
+(Write a Review)
+"
+"27167 Mission Blvd, Hayward, CA 94544, United States",190. Tandoor INDIAN Restaurant,none,"
+(Write a Review)
+"
+"30 E Santa Clara St, San Jose, California, United States",191. Curry Pundits,none,"
+(Write a Review)
+"
+"603 Old San Francisco Rd, Sunnyvale, California, United States",192. Delhi Chaat Indian Restaurant,none,"
+(Write a Review)
+"
+"673 Grape Ave, Sunnyvale, California, United States",193. Amaravathi Indian Pure Vegetarian Restaurant,none,"
+(Write a Review)
+"
+"225 W. Winton Ave #100 Hayward, CA ",194. Tandoori Paradise,5/5,"
+(, - 1 review)
+"
+"1600 Saratoga Ave, San Jose, California, USA",195. Moms Pot Biryani,4/5,"
+(, - 2 reviews)
+"
+"320 3rd St, San Francisco, California, United States",196. Chaat Corner Formerly Cafe Chaat,none,"
+(Write a Review)
+"
+"415 North Mary Avenue, Sunnyvale, CA 94085, United States",197. Little India Cafe,none,"
+(Write a Review)
+"
+"1147 S De Anza Blvd, San Jose, CA, USA",198. Tarka Tandoori,none,"
+(Write a Review)
+"
+"1007 Valencia St, San Francisco, California, United States",199. Udupi Palace,5/5,"
+(, - 5 reviews)
+"
+"948 Clay Street, Oakland, CA, USA",200. Annapurna Restaurant,5/5,"
+(, - 2 reviews)
+"
+"725 S Fair Oaks Ave, Sunnyvale, California, United States",201. Arka Indian Restaurant,none,"
+(Write a Review)
+"
+"2574 Esplanade, Chico, California, USA",202. Priya Indian Cuisine,5/5,"
+(, - 4 reviews)
+"
+"538 Lighthouse Ave, Monterey, California, USA",203. Namaste India Bistro,none,"
+(Write a Review)
+"
+"39175 Farwell Dr, Fremont, California, USA",204. India Cash & Carry,5/5,"
+(, - 2 reviews)
+"
+"2160 University Ave, Berkeley, CA, USA",205. The Tandoori Nite,none,"
+(Write a Review)
+"
+"909 4th St, San Rafael, California, United States",206. Taj Of Marin,none,"
+(Write a Review)
+"
+"40900 Fremont Blvd, Fremont, California 94538, United States",207. Mirchi Cafe And Masala Pizza,5/5,"
+(, - 3 reviews)
+"
+"868 Grant Ave, Novato, California, United States",208. Batika India Bistro,none,"
+(Write a Review)
+"
+"288 Castro St, Mountain View, CA, United States",209. Park Balluchi Indian Restaurant,5/5,"
+(, - 5 reviews)
+"
+"812 West El Camino Real, Sunnyvale, California, USA",210. Radhe Chaat Express,5/5,"
+(, - 1 review)
+"
+"1664 Countryside Dr, Turlock, CA, USA",211. Punjab Express,none,"
+(Write a Review)
+"
+"1750 E Los Angeles Ave, Simi Valley, California, United States",212. Indian Haweli,5/5,"
+(, - 3 reviews)
+"
+"28 2nd Street, San Francisco, CA 94105, United States",213. Mehfil Indian Cuisine,none,"
+(Write a Review)
+"
+" 3988 Washington Blvd Fremont, California, CA",214. Biryani Bowl,5/5,"
+(, - 4 reviews)
+"
+"San Jose Kitchen Rentals, 326 Commercial St, San Jose, CA, USA",215. Santhy 5 Star Biryani,5/5,"
+(, - 2 reviews)
+"
+"1735 4th St, Eureka, CA, United States",216. Tandoori Bites Indian Cuisine,5/5,"
+(, - 1 review)
+"
+"40645 Fremont Blvd. #1, Fremont, CA 94538, United States",217. Krishna Restaurant,none,"
+(Write a Review)
+"
+"2242 W Grant Line Rd, Tracy, California, USA",218. Dhaba Indian Cuisine,5/5,"
+(, - 2 reviews)
+"
+"209 E Java Dr, Sunnyvale, California, United States",219. Garam Masala Indian Restaurant,none,"
+(Write a Review)
+"
+"127 Dixon Landing Road, Milpitas, CA, U.S.A.",220. Bezawada Indian Cusine,5/5,"
+(, - 3 reviews)
+"
+"556 S Milpitas Blvd, Milpitas, CA, USA",221. Pista House Milpitas,5/5,"
+(, - 2 reviews)
+"
+"1148 Main St, Saint Helena, California, United States",222. Himalayan Sherpa Kitchen,5/5,"
+(, - 4 reviews)
+"
+"522 Broadway, Sonoma, CA 95476, USA",223. Delhi Belly Indian Bistro,5/5,"
+(, - 5 reviews)
+"
+"39030 Argonaut Way, Fremont, CA, United States",224. The Nawabs Kitchen,5/5,"
+(, - 5 reviews)
+"
+"533 Jackson St, San Francisco, California , United States",225. Raavi SF Indian Restaurant,none,"
+(Write a Review)
+"
+"160 Ellis Street, San Francisco, CA 94102, United States",226. New Delhi Restaurant,none,"
+(Write a Review)
+"
+"2598 Telegraph Avenue, Berkeley, California, USA",227. MT Everest Restaurant Indian Cuisine,5/5,"
+(, - 2 reviews)
+"
+"5995 Mowry Ave, Newark, California 94560, United States",228. Bombay Garden,none,"
+(Write a Review)
+"
+"2065 Hamilton Ave, San Jose, California, United States",229. Alishan Food Truck,5/5,"
+(, - 1 review)
+"
+"962 W El Camino Real, Sunnyvale, CA 94087, United States",230. SHAH Restaurant,none,"
+(Write a Review)
+"
+"2001 Bancroft Way, Berkeley, CA 94704, United States",231. Downtown Berkeley Inn,none,"
+(Write a Review)
+"
+"1 Montgomery Street, San Francisco, CA, United States",232. Junoon Indian Restaurant,none,"
+(Write a Review)
+"
+"2636 Homestead Rd, Santa Clara, California, United States",233. Dasaprakash Indian Restaurant,none,"
+(Write a Review)
+"
+"San Jose, California, United States",234. Thali N Biryani,5/5,"
+(, - 1 review)
+"
+"34751 Ardenwood Blvd, Fremont, California, United States",235. Chatpatta Corner,5/5,"
+(, - 3 reviews)
+"
+"909 4th St, San Rafael, California, United States",236. Taj Of Marin,none,"
+(Write a Review)
+"
+"63 Saint Francis Square, Daly City, California, United States",237. Burma Cafe,none,"
+(Write a Review)
+"
+"1086 North 1st Street, San Jose, CA, USA",238. Karimi Restaurant,none,"
+(Write a Review)
+"
+4088335640,239. Northern Curry Indian Restaurant,none,"
+(Write a Review)
+"
+"1645 Flickinger Ave, San Jose, CA 95131, United States",240. New India Chaat Cafe,none,"
+(Write a Review)
+"
+"150 University Avenue, Palo Alto, CA, United States",241. Amber Indian Cuisine,none,"
+(Write a Review)
+"
+" 14301 Arnold Dr, Ste Ellen Glen Ellen, California, CA ",242. Yeti Restaurant,none,"
+(Write a Review)
+"
+"2317 Oak Grove Rd, Walnut Creek, CA, USA",243. Patra Indian Grill,5/5,"
+(, - 3 reviews)
+"
+"44755 S Grimmer Blvd, Fremont, California, United States","244. Zeefoods, LLC.",5/5,"
+(, - 2 reviews)
+"
+"1888 Solano Ave, Berkeley, CA, United States",245. Ajanta Restaurant,5/5,"
+(, - 3 reviews)
+"
+"3064 El Camino Real, Santa Clara, CA 95035, United States",246. Thali Indian Vegetarian Restaurant,none,"
+(Write a Review)
+"
+"4001 18th St, San Francisco, CA 94114, United States",247. Kasa Indian Eatery,none,"
+(Write a Review)
+"
+"1991 Santa Rita Road, Pleasanton, CA, United States",248. Amaravati House,5/5,"
+(, - 6 reviews)
+"
+"3402 El Camino Real, Santa Clara, CA 95051, United States",249. Radhe Chat,none,"
+(Write a Review)
+"
+"420 South Main Street, Milpitas, CA 95035, United States",250. Milan Indian Cuisine,none,"
+(Write a Review)
+"
+"833 W El Camino Real, Sunnyvale, CA, United States",251. Crescent Cuisine,4/5,"
+(, - 1 review)
+"
+"333 Brannan Street, San Francisco, California, USA",252. ROOH,5/5,"
+(, - 4 reviews)
+"
+" 14301 Arnold Dr, Ste Ellen Glen Ellen, California, CA ",253. Yeti Restaurant,none,"
+(Write a Review)
+"
+"3327 San Felipe Rd, San Jose, CA 95135, United States",254. Rajjot Indian Cuisine And Sweets,none,"
+(Write a Review)
+"
+"3379 e El Camino Real, Santa Clara, CA, United States",255. Pesarattu,5/5,"
+(, - 1 review)
+"
+"4555 Hopyard Road, Pleasanton, CA, United States",256. Curry Kona- Fusion Food,5/5,"
+(, - 3 reviews)
+"
+"1007 Valencia St, San Francisco, California, United States",257. Udupi Palace,5/5,"
+(, - 5 reviews)
+"
+"727 S Wolfe Rd, Sunnyvale, CA, United States",258. Jai Ho Indian Multi Cuisine,5/5,"
+(, - 15 reviews)
+"
+"2179 West Grant Line Road, Tracy, CA, United States",259. Azhar Halal Grill Restaurant,5/5,"
+(, - 3 reviews)
+"
+"3077 El Camino Real, Santa Clara, CA 95051, United States",260. Real Ice Cream,none,"
+(Write a Review)
+"
+"962 W El Camino Real, Sunnyvale, CA 94087, United States",261. SHAH Restaurant,none,"
+(Write a Review)
+"
+"2232 El Camino Real, Santa Clara, CA 95050, United States",262. Mayuri Indian Cuisine,none,"
+(Write a Review)
+"
+"489 Mission St, San Francisco, CA, United States",263. Zante Pizza  Indian Cuisine,none,"
+(Write a Review)
+"
+"39030 Argonaut Way, Fremont, CA, United States",264. Hyderabad Pavilion,5/5,"
+(, - 6 reviews)
+"
+"369 Lytton Ave, Palo Alto, CA 94301, United States",265. Janta Indian Cuisine,none,"
+(Write a Review)
+"
+"Mountain View, California, United States",266. Chaat Party,none,"
+(Write a Review)
+"
+"193 S Murphy Ave, Sunnyvale, California, United States",267. Rasams Indian Restaurant,none,"
+(Write a Review)
+"
+"80 West El Camino Real, Mountain View, California, USA",268. Annachikadai Restaurant,5/5,"
+(, - 2 reviews)
+"
+"40559 Fremont Blvd, Fremont, CA 94538, United States",269. Tandoor House Restaurant,none,"
+(Write a Review)
+"
+"210 Rose Ave, Pleasanton, CA, United States",270. India Garden,5/5,"
+(, - 1 review)
+"
+"2220 First St, Livermore, California 94550, United States",271. Sansar Indian Cuisine,none,"
+(Write a Review)
+"
+"151 E El Camino Real, Sunnyvale, CA, United States",272. Bombay To Goa,5/5,"
+(, - 3 reviews)
+"
+"3720 Mowry Avenue, Fremont, CA 94538, United States",273. Saravana Bhavan Vegetarian Restaurant,none,"
+(Write a Review)
+"
+"2713 Whitson St, Selma, California, United States",274. Asoka Indian Cuisine Restaurant,5/5,"
+(, - 2 reviews)
+"
+"24 Sunnyside Ave, Mill Valley, California, United States",275. PRABH Indian Kitchen,none,"
+(Write a Review)
+"
+"2598 Telegraph Avenue, Berkeley, California, USA",276. MT Everest Restaurant Indian Cuisine,5/5,"
+(, - 2 reviews)
+"
+"225 W. Winton Ave #100 Hayward, CA ",277. Tandoori Paradise,5/5,"
+(, - 1 review)
+"
+"2118 Willow Pass Rd, Concord, CA, USA",278. Himalayan Cuisine,5/5,"
+(, - 4 reviews)
+"
+"2175 South El Camino Real, San Mateo, California 94403, USA",279. The Stone Villa Inn,none,"
+(Write a Review)
+"
+"1208 S Abel St, Milpitas, California, USA",280. Tirupathi Bhimas Restaurant,5/5,"
+(, - 2 reviews)
+"
+"129 Lytton Ave, Palo Alto, California, United States",281. Darbar Indian Cuisine,none,"
+(Write a Review)
+"
+"32513 Mission Blvd, Hayward, CA, United States",282. Apna Dhaba,4/5,"
+(, - 7 reviews)
+"
+"1053 e El Camino Real, Sunnyvale, CA, USA",283. Bhavika’s Indian Vegetarian Food,4/5,"
+(, - 4 reviews)
+"
+"San Jose, California, United States",284. Thali N Biryani,5/5,"
+(, - 1 review)
+"
+"326 Commercial Street, San Jose, CA, United States",285. Curry On Wheels,5/5,"
+(, - 3 reviews)
+"
+"1086 North 1st Street, San Jose, CA, USA",286. Karimi Restaurant,none,"
+(Write a Review)
+"
+"40900 Fremont Blvd, Fremont, California 94538, United States",287. Mirchi Cafe And Masala Pizza,5/5,"
+(, - 3 reviews)
+"
+"450 S Norfolk St, San Mateo, California, USA",288. Tabla Indian Restaurant,5/5,"
+(, - 3 reviews)
+"
+"4166 24th St, San Francisco, CA, United States",289. Holy Kitchen,none,"
+(Write a Review)
+"
+"2323 Shattuck Ave, Berkeley, California 94704, United States",290. Namaste Madras Indian Cuisine,none,"
+(Write a Review)
+"
+"4555 Hopyard Road, Pleasanton, CA, United States",291. Curry Kona- Fusion Food,5/5,"
+(, - 3 reviews)
+"
+"1536 N Vasco Rd, Livermore, California, USA",292. Caraway Indian Cuisine,5/5,"
+(, - 3 reviews)
+"
+"5348 W Spruce Ave, Fresno, CA, USA",293. Star Indian Cuisine,none,"
+(Write a Review)
+"
+"659 Valencia Street, San Francisco, CA, United States",294. Curry Up Now Food Truck,none,"
+(Write a Review)
+"
+"San Francisco, CA, United States",295. Munch India Food Truck,none,"
+(Write a Review)
+"
+"1513 Shattuck Ave, Berkeley, California 94709, United States",296. Tigerlily,none,"
+(Write a Review)
+"
+"21267 Stevens Creek Blvd, Ste 320, Cupertino, CA 95014, United States",297. Sitar Express,none,"
+(Write a Review)
+"
+"3077 El Camino Real, Santa Clara, California, United States",298. Bangalore Cafe,none,"
+(Write a Review)
+"
+"2700 W El Camino Real, Mountain View, CA, United States",299. The Menu Indian Cuisine,none,"
+(Write a Review)
+"
+"5350 Great America Pkwy, Santa Clara, California, USA",300. Golkonda Indian Cuisine,none,"
+(Write a Review)
+"
+"5144 Mowry Avenue, Fremont, CA, United States",301. Taste Of India Restaurant,5/5,"
+(, - 1 review)
+"
+"43852 Pacific Commons Boulevard, Fremont, California, USA",302. Rangoli Flavors Of India,5/5,"
+(, - 5 reviews)
+"
+"40827 Fremont Blvd, Fremont, California, USA",303. Bawarchi,none,"
+(Write a Review)
+"
+"536 Golden Gate Ave, San Francisco, California, United States",305. Mela Tandoori Kitchen,none,"
+(Write a Review)
+"
+"1427 Branham Lane, San Jose, CA 95118, United States",306. Kokilas Kitchen,none,"
+(Write a Review)
+"
+"83 Eddy Street, San Francisco, CA 94102, United States",307. Little Delhi Restaurant,none,"
+(Write a Review)
+"
+"895 Willow St, San Jose, CA 95125, United States",308. New Indian Cuisine,none,"
+(Write a Review)
+"
+"2554 Appian Way, Pinole, CA, United States",309. Tandoor Restaurant,5/5,"
+(, - 6 reviews)
+"
+"5995 Mowry Ave, Newark, California 94560, United States",310. Bombay Garden,none,"
+(Write a Review)
+"
+"129 Lytton Ave, Palo Alto, California, United States",311. Darbar Indian Cuisine,none,"
+(Write a Review)
+"
+"20007 Stevens Creek Blvd, Cupertino, CA 95014, United States",312. Shan Restaurant,none,"
+(Write a Review)
+"
+"2500 Bryant Street, San Francisco, CA, United States",313. The Spice Jar,5/5,"
+(, - 10 reviews)
+"
+"39030 Argonaut Way, Fremont, CA, United States",314. Hyderabad Pavilion,5/5,"
+(, - 6 reviews)
+"
+"Fremont, CA, United States",315. TAJ E Chaat,none,"
+(Write a Review)
+"
+"98 S Second St, San Jose, CA, United States",316. M Asian Fusion Restaurant,5/5,"
+(, - 3 reviews)
+"
+"52 Ranch Drive, Milpitas, California, USA",317. Dindigul Thalappakatti Restaurant,none,"
+(Write a Review)
+"
+"920e East Arques Avenue, Sunnyvale, CA 94085, United States",318. Sri Ananda Bhavan,none,"
+(Write a Review)
+"
+"2065 Hamilton Ave, San Jose, California, United States",319. Alishan Food Truck,5/5,"
+(, - 1 review)
+"
+"3327 San Felipe Rd, San Jose, CA 95135, United States",320. Rajjot Indian Cuisine And Sweets,none,"
+(Write a Review)
+"
+"282 Barber Ct, Milpitas, California, United States",321. Aasna Melange Of India,none,"
+(Write a Review)
+"
+"724 Main Street, Half Moon Bay, CA, United States",322. ARK North Indian Grill,5/5,"
+(, - 6 reviews)
+"
+"San Francisco, CA, United States",323. Munch India Food Truck,none,"
+(Write a Review)
+"
+"1037 Valencia St, San Francisco, California, United States",324. Aslams Rasoi Indian Restaurant,none,"
+(Write a Review)
+"
+"1635 Hollenbeck Ave, Sunnyvale, California, United States",325. Kings Of Punjab,none,"
+(Write a Review)
+"
+"129 Lytton Ave, Palo Alto, California, United States",326. Darbar Indian Cuisine,none,"
+(Write a Review)
+"
+"80 Ranch Dr, Milpitas, CA, United States",327. Mirch Masala,none,"
+(Write a Review)
+"
+"Fremont, California, USA",328. Masala Theory,none,"
+(Write a Review)
+"
+"Newark, California, United States",329. Ammas Restaurant,none,"
+(Write a Review)
+"
+"1037 Valencia St, San Francisco, California, United States",330. Aslams Rasoi Indian Restaurant,none,"
+(Write a Review)
+"
+"1373 Solano Ave, Albany, CA 94706, United States",331. Delhi Diner,none,"
+(Write a Review)
+"
+"927 East Arques Avenue, Sunnyvale, CA, United States",332. Indian Street Cafe,5/5,"
+(, - 3 reviews)
+"
+"2051 El Camino Real, Palo Alto, CA, United States",333. Cardinal Sushi,5/5,"
+(, - 1 review)
+"
+"42136 Blacow Rd, Fremont, CA, United States",334. Pizza And Curry,5/5,"
+(, - 3 reviews)
+"
+"100 West American Canyon Road, American Canyon, California, United States",335. All Spice Indian Restaurant,5/5,"
+(, - 4 reviews)
+"
+"3402 El Camino Real, Santa Clara, CA 95051, United States",336. Radhe Chat,none,"
+(Write a Review)
+"
+"810 Pacific Ave, Santa Cruz, CA, USA",337. Mumbai Delights,5/5,"
+(, - 1 review)
+"
+"520 E Santa Clara St, San Jose, California, United States",338. Vegetarian House,none,"
+(Write a Review)
+"
+"525 Los Coches St, Milpitas, CA 95035, United States",339. Jalsa Catering And Events,none,"
+(Write a Review)
+"
+"
+Serving the Bay  Area",340. IGrill Restaurant,5/5,"
+(, - 5 reviews)
+"
+"
+Serving the Bay  Area",341. Mangoes Indian Cuisine,none,"
+(Write a Review)
+"
+"
+Serving the Bay  Area",342. THE LOT,4/5,"
+(, - 20 reviews)
+"
+"
+Serving the Bay  Area",343. Bombay To Goa,5/5,"
+(, - 9 reviews)
+"
+"
+Serving the Bay  Area",344. Mia Jee Tandoori,5/5,"
+(, - 7 reviews)
+"
