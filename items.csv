@@ -173,9 +173,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "6052 Stevenson Blvd, Fremont, California, USA",59. Kitchen Of Kuchipudi,5/5,"
 (, - 2 reviews)
 "
-"2634 Alum Rock Ave, San Jose, CA 95116, United States",60. Jewel Of India Restaurant,none,"
-(Write a Review)
-"
 "2656 Bridgeway, Sausalito, CA, United States",61. Avatar's Restaurant,5/5,"
 (, - 5 reviews)
 "
@@ -201,9 +198,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 (Write a Review)
 "
 "41031 Fremont Blvd, Fremont, California, USA",69. Lovely Sweets And Snacks,none,"
-(Write a Review)
-"
-"2725 El Camino Real, Santa Clara, CA, United States",70. KITCHEN OF KUCHIPUDI,none,"
 (Write a Review)
 "
 "2948 20th Street, San Francisco, CA, United States",71. Spices And Aroma Supperclub,5/5,"
@@ -277,9 +271,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "
 "2574 Esplanade, Chico, California, USA",95. Priya Indian Cuisine,5/5,"
 (, - 4 reviews)
-"
-"288 Castro St, Mountain View, CA, United States",96. Park Balluchi Indian Restaurant,5/5,"
-(, - 5 reviews)
 "
 "1427 Branham Lane, San Jose, CA 95118, United States",97. Kokilas Kitchen,none,"
 (Write a Review)
@@ -410,9 +401,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "5179 Telegraph Avenue, Oakland, CA, United States",141. Juhu Beach Club,5/5,"
 (, - 3 reviews)
 "
-"3037 Pleasanton Avenue, Pleasanton, CA, United States",142. Vedas Indian Restaurant,none,"
-(Write a Review)
-"
 "39030 Argonaut Way, Fremont, CA, United States",143. Hyderabad Pavilion,5/5,"
 (, - 6 reviews)
 "
@@ -431,9 +419,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "Emeryville, California, USA",148. MOMOlicious,5/5,"
 (, - 3 reviews)
 "
-"4741 W Shaw Ave, Fresno, CA, United States",149. Shan-E-Punjab Punjabi Cuisine,5/5,"
-(, - 3 reviews)
-"
 "950 West El Camino Real, Sunnyvale, CA 94087, USA",150. Ugadi Pure Vegetarian Restaurant,none,"
 (Write a Review)
 "
@@ -445,9 +430,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "
 "282 Barber Ct, Milpitas, California, United States",153. Aasna Melange Of India,none,"
 (Write a Review)
-"
-"258 Divisadero St, San Francisco, CA, United States",155. Indian Paradox,5/5,"
-(, - 3 reviews)
 "
 "1037 Valencia St, San Francisco, California, United States",157. Aslams Rasoi Indian Restaurant,none,"
 (Write a Review)
@@ -501,9 +483,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 (Write a Review)
 "
 "San Francisco, CA, United States",175. Munch India Food Truck,none,"
-(Write a Review)
-"
-"522 Jones St, San Francisco, California, USA",176. Red Chilli,none,"
 (Write a Review)
 "
 "1086 North 1st Street, San Jose, CA, USA",177. Karimi Restaurant,none,"
@@ -601,9 +580,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "
 "868 Grant Ave, Novato, California, United States",208. Batika India Bistro,none,"
 (Write a Review)
-"
-"288 Castro St, Mountain View, CA, United States",209. Park Balluchi Indian Restaurant,5/5,"
-(, - 5 reviews)
 "
 "812 West El Camino Real, Sunnyvale, California, USA",210. Radhe Chaat Express,5/5,"
 (, - 1 review)
@@ -712,9 +688,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "
 "1888 Solano Ave, Berkeley, CA, United States",245. Ajanta Restaurant,5/5,"
 (, - 3 reviews)
-"
-"3064 El Camino Real, Santa Clara, CA 95035, United States",246. Thali Indian Vegetarian Restaurant,none,"
-(Write a Review)
 "
 "4001 18th St, San Francisco, CA 94114, United States",247. Kasa Indian Eatery,none,"
 (Write a Review)
@@ -857,9 +830,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "5348 W Spruce Ave, Fresno, CA, USA",293. Star Indian Cuisine,none,"
 (Write a Review)
 "
-"659 Valencia Street, San Francisco, CA, United States",294. Curry Up Now Food Truck,none,"
-(Write a Review)
-"
 "San Francisco, CA, United States",295. Munch India Food Truck,none,"
 (Write a Review)
 "
@@ -884,9 +854,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "43852 Pacific Commons Boulevard, Fremont, California, USA",302. Rangoli Flavors Of India,5/5,"
 (, - 5 reviews)
 "
-"40827 Fremont Blvd, Fremont, California, USA",303. Bawarchi,none,"
-(Write a Review)
-"
 "536 Golden Gate Ave, San Francisco, California, United States",305. Mela Tandoori Kitchen,none,"
 (Write a Review)
 "
@@ -908,9 +875,7 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "129 Lytton Ave, Palo Alto, California, United States",311. Darbar Indian Cuisine,none,"
 (Write a Review)
 "
-"20007 Stevens Creek Blvd, Cupertino, CA 95014, United States",312. Shan Restaurant,none,"
-(Write a Review)
-"
+
 "2500 Bryant Street, San Francisco, CA, United States",313. The Spice Jar,5/5,"
 (, - 10 reviews)
 "
@@ -982,9 +947,6 @@ crawlingpage_address,crawlingpage_name,crawlingpage_ratings,crawlingpage_reviews
 "
 "3402 El Camino Real, Santa Clara, CA 95051, United States",336. Radhe Chat,none,"
 (Write a Review)
-"
-"810 Pacific Ave, Santa Cruz, CA, USA",337. Mumbai Delights,5/5,"
-(, - 1 review)
 "
 "520 E Santa Clara St, San Jose, California, United States",338. Vegetarian House,none,"
 (Write a Review)
