@@ -23,6 +23,7 @@ class ScrapyTutSpider(scrapy.Spider):
             else:
                 crawlingpage_ratings = "none"
             crawlingpage_reviews = container.css(".star-blk a::text").extract()
+            crawlingpage_reviews = [item.replace("\r"," ") for item in crawlingpage_reviews]
 # AND SAVE ALL THE CRAWLED OUTPUT IN THE ITEMS
             items["crawlingpage_name"] = crawlingpage_name
             items["crawlingpage_address"] = crawlingpage_address
